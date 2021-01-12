@@ -9,3 +9,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dhruvil-p&show_icons=true&locale=en" alt="dhruvil-p" /></p>
 
+![Dhruvil's github stats](https://github-readme-stats.vercel.app/api?username=dhruvil-p&show_icons=true&theme=tokyonight)
