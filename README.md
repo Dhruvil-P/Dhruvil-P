@@ -8,3 +8,7 @@
 ![Dhruvil's github stats](https://github-readme-stats.vercel.app/api?username=dhruvil-p&show_icons=true&theme=tokyonight)
 <br>
 <img src="https://wakatime.com/share/@Dhruvil/9e83c125-ca5f-4128-b76f-c07cac2c30fa.svg" height=450px>
+
+
+
+![Metrics](https://metrics.lecoq.io/Dhruvil-P?template=classic&base.community=0&base.metadata=0&isocalendar=1&isocalendar.duration=full-year&config.timezone=Asia%2FCalcutta&config.animated=true)
