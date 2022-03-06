@@ -3,7 +3,7 @@
 <!-- [![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com) -->
 [![Twitter Follow](https://img.shields.io/twitter/follow/Dhruvil69422716?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?screen_name=Dhruvil69422716)
 
-## I'm a Flutter & Web developer, open source enthusiast!!
+## I'm a Flutter & Web developer, a UX Designer, and open source enthusiast!!
 
 - 🔭 [Have a look at my projects!][repos]
 - 🌱 I’m currently sharpening my Flutter skills 
