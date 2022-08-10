@@ -3,11 +3,11 @@
 <!-- [![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com) -->
 [![Twitter Follow](https://img.shields.io/twitter/follow/Dhruvil69422716?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?screen_name=Dhruvil69422716)
 
-## I'm a Flutter & Web developer, a UX Designer, and open source enthusiast!!
+## I'm a UI/UX Designer, a Graphic Designer, a Frontend Developer, a Flutter Developer, and an enthusiast creator!!
 
 - 🔭 [Have a look at my projects!][repos]
-- 🌱 I’m currently sharpening my Flutter skills 
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🌱 I’m currently exploring game development with Unreal Engine 5.
+- 🥅 2022 Goals: Get better and better at what I do + Keep learning new stuffs.
 - ⚡ Fun fact: I love to travel and play games
 ### Connect with me:
 <!-- 
