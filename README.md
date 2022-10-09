@@ -6,7 +6,7 @@
 ## I'm a UI/UX Designer, a Graphic Designer, a Frontend Developer, a Flutter Developer, and an enthusiast creator!!
 
 - 🔭 [Have a look at my projects!][repos]
-- 🎨 [Dribbble Profile](https://dribbble.com/_Dhruvil_)
+- 🎨 [Visit my UI/UX arts and creations](https://dribbble.com/_Dhruvil_)
 - 🌱 I’m currently exploring game development with Unreal Engine 5.
 - 🥅 2022 Goals: Get better and better at what I do + Keep learning new stuffs.
 - ⚡ Fun fact: I love to travel and play games
